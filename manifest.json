@@ -1,8 +1,8 @@
 {
   "name": "Snake Game",
   "short_name": "Snake",
-  "start_url": "https://ruchisaini557-alt.github.io/snake.html",
-  "scope": "https://ruchisaini557-alt.github.io/",
+  "start_url": "https://ruchisaini557-alt.github.io/snake-game/",
+  "scope": "https://ruchisaini557-alt.github.io/snake-game/",
   "display": "standalone",
   "background_color": "#000000",
   "theme_color": "#2a5298",
